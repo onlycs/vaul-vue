@@ -1,0 +1,9 @@
+{
+	"name": "vaul-vue",
+	"version": "1.0.0",
+	"main": "index.js",
+	"dependencies": {
+		"reka-ui": "^2.5.0",
+		"vue": "^3.5.21"
+	}
+}
